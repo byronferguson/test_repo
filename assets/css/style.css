@@ -2,3 +2,8 @@ body {
   color: white;
   background-color: darkslateblue;
 }
+
+.container {
+  margin-inline: auto;
+  max-width: 80ch;
+}
